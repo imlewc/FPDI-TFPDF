@@ -1,3 +1,6 @@
+# each function is deprecated in php 7.2, use foreach repair it.
+
+
 # Stop Stop Stop, hey, this repo is depricated, because it has not been updated for a long time and during this time there was a huge number of other libraries, [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord), for example
 
 # FPDI-TFPDF
