@@ -1,6 +1,6 @@
 {
   "name": "imlewc/fpdi-tfpdf",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "description": "PHP package of TFPDF with FPDI. PSR-4 compliant. Forked from istom1n/fpdi-tfpdf, each function is deprecated in php 7.2, use foreach repair it.",
   "type": "library",
   "keywords": ["pdf", "fpdi", "fpdf", "tfpdf"],
