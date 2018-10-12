@@ -1,14 +1,14 @@
 {
-  "name": "istom1n/fpdi-tfpdf",
-  "version": "1.0.4",
-  "description": "PHP package of TFPDF with FPDI. PSR-4 compliant.",
+  "name": "imlewc/fpdi-tfpdf",
+  "version": "1.0.0",
+  "description": "PHP package of TFPDF with FPDI. PSR-4 compliant. Forked from istom1n/fpdi-tfpdf, each function is deprecated in php 7.2, use foreach repair it.",
   "type": "library",
   "keywords": ["pdf", "fpdi", "fpdf", "tfpdf"],
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Ivan Istomin",
-      "email": "ivan@istomin.im"
+      "name": "imlewc",
+      "email": "imlewc@126.com"
     }
   ],
   "autoload": {
